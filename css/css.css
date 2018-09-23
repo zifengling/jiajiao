@@ -1,0 +1,79 @@
+.news_css {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.news_css a:link {
+	color: #000000;text-decoration: none;
+}
+.news_css a:visited {
+	color: #000000;text-decoration: none;
+}
+.news_css a:hover {
+	color: #000000;text-decoration: underline;
+}
+
+.link_css {
+	font-size: 14px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.link_css a:link {
+	color: #FFFFFF;text-decoration: none;
+}
+.link_css a:visited {
+	color: #FFFFFF;text-decoration: none;
+}
+.link_css a:hover {
+	color: #FFFFFF;text-decoration: underline;
+}
+
+.link_css_1 {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.link_css_1 a:link {
+	color: #FFFFFF;text-decoration: none;
+}
+.link_css_1 a:visited {
+	color: #FFFFFF;text-decoration: none;
+}
+.link_css_1 a:hover {
+	color: #FFFFFF;text-decoration: underline;	
+}
+
+.sort_css a:link {color:#000000;text-decoration: none;}
+.sort_css a:visited {color:#000000;text-decoration: none;}
+.sort_css a:active {color:#000000;text-decoration: none;}
+.sort_css a:hover {color:#000000;text-decoration:underline;}
+.sort_css {
+	font-size: 14px;
+	color:#000000;
+	line-height:30px;
+}
+
+.button_css a:link {color:#000000;text-decoration: none;}
+.button_css a:visited {color:#000000;text-decoration: none;}
+.button_css a:active {color:#000000;text-decoration: none;}
+.button_css a:hover {color:#000000;text-decoration:underline;}
+.button_css {
+	font-size: 14px;
+	font-weight:bold;
+	color:#000000;
+	line-height:30px;
+}
+
+#block{
+	padding-top:5px;
+	width:150px;
+	height:600px;	
+}
+
+.sticky{
+	position:fixed;
+	top:0;
+	color:yellow;
+	_position:absolute;
+	_top:expression(eval(document.documentElement.scrollTop));
+}
